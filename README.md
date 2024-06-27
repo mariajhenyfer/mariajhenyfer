@@ -1,16 +1,19 @@
-## Hi there 👋
+### Boas vindas ao meu perfil!
 
-<!--
-**mariajhenyfer/mariajhenyfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+*Me chamo Maria Jhenyfer*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou estudando na (https://www.alura.com.br)
+
+-Estou estudando a linguagem JavaScript
+
+### Você pode entrar em contato comigo 📫
+
+maria.oliveira.abrantes@escola.pr.gov.br
+
+@_jhenym
+
+
+
+
+![image](https://github.com/mariajhenyfer/mariajhenyfer/assets/174026066/39560021-833d-48a5-83e5-b3a0e7335fd1)
